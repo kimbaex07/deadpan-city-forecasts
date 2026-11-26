@@ -6,6 +6,16 @@
 
 A single deadpan weather line for Blorvenwick, a city that does not exist: sideways rain, bus-swallowing fog, and a sun that files complaints. `main.py` writes the line to `/output/entry.txt`.
 
+## The entry
+
+> In Blorvenwick tonight, expect sideways rain at 41 degrees, fog thick enough to lose a bus in, and a 90% chance the sun files a complaint.
+
+138 characters (gate: 1–160).
+
+## Why it lands
+
+The forecast is funny because its delivery is completely straight while its contents are absurd: rain falls sideways, fog swallows a whole bus, and the sun lodges a formal complaint. Keeping the deadpan weather-report voice — temperature, percentages, "tonight" — makes the impossible details sound routine, which is where the humour lives. Blorvenwick sounds just plausible enough as a town name to sell it.
+
 ## Run it
 
 ```sh
