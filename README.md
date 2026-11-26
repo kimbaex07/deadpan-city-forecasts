@@ -14,7 +14,7 @@ A single deadpan weather line for Blorvenwick, a city that does not exist: sidew
 
 ## Why it lands
 
-The forecast is funny because its delivery is completely straight while its contents are absurd: rain falls sideways, fog swallows a whole bus, and the sun lodges a formal complaint. Keeping the deadpan weather-report voice — temperature, percentages, "tonight" — makes the impossible details sound routine, which is where the humour lives. Blorvenwick sounds just plausible enough as a town name to sell it.
+The forecast is funny because its delivery is completely straight while its contents are absurd: rain falls sideways, fog swallows a whole bus, and the sun lodges a formal complaint. Keeping the deadpan weather-report voice — temperature, percentages, "tonight" — makes the impossible details sound routine, which is where the humour lives. Blorvenwick sounds just plausible enough as a town name to sell it. The 90% chance is the best detail: a precise number attached to something no forecast could ever measure, which is exactly how real weather reports sound when they are guessing.
 
 ## Run it
 
